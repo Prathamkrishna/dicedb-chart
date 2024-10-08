@@ -1,4 +1,4 @@
-DICEDB HELM CHART 
+DICEDB HELM CHART <br/>
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dicedb-chart)](https://artifacthub.io/packages/search?repo=dicedb-chart)
 
 <b>What is Dice DB?</b>
